@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JonnyPickard/testing-different-git-hooks/issues"
   },
-  "homepage": "https://github.com/JonnyPickard/testing-different-git-hooks#readme"
+  "homepage": "https://github.com/JonnyPickard/testing-different-git-hooks#readme",
+  "devDependencies": {
+    "standard-version": "^7.1.0"
+  }
 }
