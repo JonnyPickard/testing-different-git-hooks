@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JonnyPickard/testing-different-git-hooks#readme",
   "devDependencies": {
-    "standard-version": "^7.1.0"
+    "standard-version": "^8.0.1"
   }
 }
